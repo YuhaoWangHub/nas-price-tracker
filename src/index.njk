@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>NAS Price Tracker</title>
   </head>
   <body>
     <h1>NAS Price Tracker</h1>
+    <p>If you're seeing this, Eleventy is working!</p>
+
     <table border="1">
       <tr>
         <th>Title</th>
@@ -16,7 +18,7 @@
       <tr>
         <td>{{ product.title }}</td>
         <td>{{ product.price }}</td>
-        <td><a href="{{ product.link }}" target="_blank">View</a></td>
+        <td><a href="{{ product.link }}">View</a></td>
       </tr>
       {% endfor %}
     </table>
