@@ -1,16 +1,18 @@
 const fs = require("fs");
 
-module.exports = function (eleventyConfig) {
-  // Copy the data file to the _site/data folder
-  eleventyConfig.addPassthroughCopy({ "data/products.json": "data/products.json" });
+module.exports = function(eleventyConfig) {
+  // Make products.json available to templates
+  eleventyConfig.addGlobalData("products", () => {
+    return JSON.parse(fs.readFileSync("./data/products.json", "utf-8"));
+  });
 
-  // Load the JSON for use in templates
-  eleventyConfig.addGlobalData("products", () => require("./data/products.json"));
+  // Copy the actual JSON file into the output so it's deployed
+  eleventyConfig.addPassthroughCopy({ "data/products.json": "data/products.json" });
 
   return {
     dir: {
       input: "src",
-      output: "_site",
-    },
+      output: "_site"
+    }
   };
 };
