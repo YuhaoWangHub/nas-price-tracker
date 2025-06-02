@@ -13,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -29,11 +28,8 @@ jobs:
       - name: Scrape Amazon
         run: node scraper/scrape.js
 
-      - name: Wait to ensure products.json is fully written
-        run: sleep 2
-
       - name: Build Site
-        run: npx @11ty/eleventy --config=.eleventy.js --input=src --output=_site
+        run: npx @11ty/eleventy
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
