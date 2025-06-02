@@ -27,6 +27,7 @@ jobs:
 
       - name: Scrape Amazon
         run: node scraper/scrape.js
+        working-directory: .  # This ensures script runs at repo roo
 
       - name: Build Site
         run: npx @11ty/eleventy
