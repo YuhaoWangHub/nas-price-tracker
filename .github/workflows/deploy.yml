@@ -20,13 +20,10 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Install Chromium for Puppeteer
+      - name: Install dependencies and Chromium
         run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser
+          npm install
+          npx puppeteer browsers install chrome
 
       - name: Scrape Amazon
         run: node scraper/scrape.js
