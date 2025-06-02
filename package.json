@@ -1,0 +1,24 @@
+{
+  "name": "nas-price-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuhaoWangHub/nas-price-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuhaoWangHub/nas-price-tracker/issues"
+  },
+  "homepage": "https://github.com/YuhaoWangHub/nas-price-tracker#readme",
+  "description": "",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.0",
+    "puppeteer": "^24.9.0"
+  }
+}
