@@ -29,10 +29,11 @@ jobs:
       - name: Scrape Amazon
         run: node scraper/scrape.js
 
+      - name: Wait to ensure products.json is fully written
+        run: sleep 2
+
       - name: Build Site
-        run: |
-          echo "Force running Eleventy from root with correct config"
-          npx @11ty/eleventy --config=.eleventy.js --input=src --output=_site
+        run: npx @11ty/eleventy --config=.eleventy.js --input=src --output=_site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
