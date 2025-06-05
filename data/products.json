@@ -10,14 +10,14 @@
     "link": "https://www.amazon.ca/dp/B0CTTL9R7Z"
   },
   {
-    "title": "Seagate IronWolf 8TB NAS Internal Hard Drive HDD – 3.5 Inch SATA 6Gb/s 7200 RPM 256MB Cache for RAID Network Attached Storage – Frustration Free Packaging (ST8000VNZ04/N004) (Package May Vary)",
-    "price": "$234.99",
-    "link": "https://www.amazon.ca/dp/B084ZV4DXB"
-  },
-  {
     "title": "Buffalo LinkStation 210 2TB 1-Bay NAS Network Attached Storage with HDD Hard Drives Included NAS Storage That Works as Home Cloud or Network Storage Device for Home",
     "price": "$219.99",
     "link": "https://www.amazon.ca/dp/B00JKM0A36"
+  },
+  {
+    "title": "Seagate IronWolf 8TB NAS Internal Hard Drive HDD – 3.5 Inch SATA 6Gb/s 7200 RPM 256MB Cache for RAID Network Attached Storage – Frustration Free Packaging (ST8000VNZ04/N004) (Package May Vary)",
+    "price": "$244.99",
+    "link": "https://www.amazon.ca/dp/B084ZV4DXB"
   },
   {
     "title": "TERRAMASTER F2-212 2Bay NAS - Quad Core CPU DDR4 RAM Personal Private Cloud Home Network Attached Storage with Rich Backup Solutions (Diskless)",
@@ -35,8 +35,8 @@
     "link": "https://www.amazon.ca/dp/B0CHYMWH66"
   },
   {
-    "title": "QNAP TS-133-US 1 Bay Affordable Desktop NAS with ARM Cortex-A55 Quad-core Processor and 2 GB DDR4 RAM (Diskless)",
-    "price": "$215.00",
-    "link": "https://www.amazon.ca/dp/B09VK79GTZ"
+    "title": "TERRAMASTER F4-424 NAS Storage 4Bay - N95 Quad-Core CPU, 8GB DDR5 RAM, 2.5GbE Port x 2, Network Attached Storage with High Performance (Diskless)",
+    "price": "$699.99",
+    "link": "https://www.amazon.ca/dp/B0CPP5GDZ3"
   }
 ]
