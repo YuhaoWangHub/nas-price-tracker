@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "title": "UGREEN NASync DXP2800 2-Bay Desktop NAS, Auto Backup Organize Phones/PCs Private Cloud Storage for Home & Office, Intel N100 Quad-core CPU, 8GB DDR5 RAM, 2.5GbE, Dual M.2 Slots, 4K HDMI (Diskless)",
+    "price": "$499.99",
+    "link": "https://www.amazon.ca/dp/B0D22HBFK1"
+  },
+  {
+    "title": "TERRAMASTER D4-320 External Hard Drive Enclosure - 4bay USB 3.2 Gen2 10Gbps Type-C USB Storage Hot Swappable Plug and Play (Diskless)",
+    "price": "$249.99",
+    "link": "https://www.amazon.ca/dp/B0CTTL9R7Z"
+  },
+  {
+    "title": "Buffalo LinkStation 210 2TB 1-Bay NAS Network Attached Storage with HDD Hard Drives Included NAS Storage That Works as Home Cloud or Network Storage Device for Home",
+    "price": "$219.99",
+    "link": "https://www.amazon.ca/dp/B00JKM0A36"
+  },
+  {
+    "title": "UGREEN NASync DXP4800 4-Bay Desktop NAS, Auto Backup Phones/PCs Private Cloud Storage for Home & Office, Intel N100 Quad-core CPU, 8GB DDR5 RAM, 32G eMMC, 2 * 2.5GbE, Dual M.2 Slots, 4K HDMI(Diskless)",
+    "price": "$699.99",
+    "link": "https://www.amazon.ca/dp/B0D22HF3VN"
+  },
+  {
+    "title": "TERRAMASTER F2-423 2Bay NAS Storage - High Performance NAS for SMB with N5095 QuadCore CPU 4GB DDR4 Memory, 2.5GbE Port x 2, Network Storage Server, Diskless",
+    "price": "$499.99",
+    "link": "https://www.amazon.ca/dp/B0B4W6LLWR"
+  },
+  {
+    "title": "GeeekPi N07 MiniTower NVMe NAS Kit for Raspberry Pi 5, Supports M.2 NVMe SSD 2230/2242/2260/2280",
+    "price": "$53.99",
+    "link": "https://www.amazon.ca/dp/B0DL2R33M9"
+  },
+  {
+    "title": "Asustor AS5402T 2 Bay NAS Storage, Quad-Core 2.0GHz CPU, 4xM.2 NVMe SSD Slots, 2x2.5GbE Ports, 4GB DDR4 RAM, Gaming Network Attached Storage, Home Personal Cloud Storage (Diskless)",
+    "price": "$499.00",
+    "link": "https://www.amazon.ca/dp/B0C5MB5MTS"
+  },
+  {
+    "title": "Asustor Lockerstor 2 Gen 2 AS6702T | 2 Bay NAS - Network Storage Enclosure, Quad Core 2.0GHz CPU, 4 M.2 PCIe 3.0 SSD Slot, 2 2.5GbE Port, 4GB RAM DDR4",
+    "price": "$589.00",
+    "link": "https://www.amazon.ca/dp/B09VXCSLR4"
+  }
+]
