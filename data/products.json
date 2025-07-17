@@ -30,13 +30,13 @@
     "link": "https://www.amazon.ca/dp/B0CHYMWH66"
   },
   {
-    "title": "TERRAMASTER F4-423 4Bay NAS Storage - High Performance NAS for SMB with N5095 QuadCore CPU 4GB DDR4 Memory, 2.5GbE Port x 2, Network Storage Server, Diskless",
-    "price": "$639.99",
-    "link": "https://www.amazon.ca/dp/B0B4VMRGHY"
-  },
-  {
     "title": "QNAP TS-1655-8G-US 16 Bay high Performance and high-Capacity Hybrid NAS with Intel® Atom® 8-core Processor, Dual 2.5GbE and Long-Term Availability",
     "price": "$2,865.00",
     "link": "https://www.amazon.ca/dp/B0BQXBC7VV"
+  },
+  {
+    "title": "TERRAMASTER F4-423 4Bay NAS Storage - High Performance NAS for SMB with N5095 QuadCore CPU 4GB DDR4 Memory, 2.5GbE Port x 2, Network Storage Server, Diskless",
+    "price": "$639.99",
+    "link": "https://www.amazon.ca/dp/B0B4VMRGHY"
   }
 ]
