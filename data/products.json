@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "title": "UGREEN NASync DXP2800 2-Bay Desktop NAS, Auto Backup Organize Phones/PCs Private Cloud Storage for Home & Office, Intel N100 Quad-core CPU, 8GB DDR5 RAM, 2.5GbE, Dual M.2 Slots, 4K HDMI (Diskless)",
+    "price": "$499.99",
+    "link": "https://www.amazon.ca/dp/B0D22HBFK1"
+  },
+  {
+    "title": "UGREEN NASync DXP4800 Plus 4-Bay Desktop NAS, Intel Pentium Gold 8505 5-Core CPU, 8GB DDR5 RAM, 128G SSD, 1 * 10GbE, 1 * 2.5GbE, 2 * M.2 NVMe Slots, 4K HDMI, Network Attached Storage (Diskless)",
+    "price": "$894.99",
+    "link": "https://www.amazon.ca/dp/B0D22JRHZB"
+  },
+  {
+    "title": "TERRAMASTER D4-320 External Hard Drive Enclosure - 4bay USB 3.2 Gen2 10Gbps Type-C USB Storage Hot Swappable Plug and Play (Diskless)",
+    "price": "$199.99",
+    "link": "https://www.amazon.ca/dp/B0CTTL9R7Z"
+  },
+  {
+    "title": "Asustor Drivestor 2 Lite AS1102TL, 2 Bay NAS Enclosure Network Storage, 1.7GHz Quad Core, 1GbE Port, 1GB RAM DDR4, Network Attached Storage for Cloud Storage (Diskless)",
+    "price": "$240.00",
+    "link": "https://www.amazon.ca/dp/B0CHYMWH66"
+  },
+  {
+    "title": "TERRAMASTER F4-423 4Bay NAS Storage - High Performance NAS for SMB with N5095 QuadCore CPU 4GB DDR4 Memory, 2.5GbE Port x 2, Network Storage Server, Diskless",
+    "price": "$479.99",
+    "link": "https://www.amazon.ca/dp/B0B4VMRGHY"
+  },
+  {
+    "title": "Buffalo LinkStation 210 2TB 1-Bay NAS Network Attached Storage with HDD Hard Drives Included NAS Storage That Works as Home Cloud or Network Storage Device for Home",
+    "price": "$219.99",
+    "link": "https://www.amazon.ca/dp/B00JKM0A36"
+  },
+  {
+    "title": "UGREEN 5 Bay USB C RAID Hard Drive Enclosure 100TB for 3.5 2.5 Inch SSD HDD, Disk Array Support RAID0 RAID1 RAID10 RAID3 RAID5 Clone PM Large Mode, S.M.A.R.T, with 12V Power Adapter and USB C Cable",
+    "price": "$199.99",
+    "link": "https://www.amazon.ca/dp/B0CRHMQ16T"
+  }
+]
