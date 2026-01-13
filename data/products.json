@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "title": "UGREEN NAS DH2300 2-Bay Desktop NAS, Support Capacity 60TB (Diskless), Remote Access, AI Photo Album, Beginner Friendly System, 4GB RAM on Board,1GbE, 4K HDMI, Network Attached Storage(Diskless)",
+    "price": "$269.99",
+    "link": "https://www.amazon.ca/dp/B0FNWHSPXF"
+  },
+  {
+    "title": "UGREEN NAS DXP2800 2-Bay Desktop All-Round NASync Ideal for Small Team, Enthusiasts, Intel N100 Quad-core CPU, 8GB DDR5 RAM, 2.5GbE, 2X M.2 NVMe Slots, 4K HDMI, Network Attached Storage (Diskless)",
+    "price": "$449.99",
+    "link": "https://www.amazon.ca/dp/B0D22HBFK1"
+  },
+  {
+    "title": "UGREEN NAS DXP4800 Plus 4-Bay Desktop NAS,Intel Pentium Gold 8505 5-Core CPU,8GB DDR5 RAM, Built-in 128G SSD for System, 1x10GbE,1x2.5GbE,2xM.2 NVMe Slots,4K HDMI,Network Attached Storage(Diskless)",
+    "price": "$799.99",
+    "link": "https://www.amazon.ca/dp/B0D22JRHZB"
+  },
+  {
+    "title": "UGREEN NAS DH4300 Plus 4-Bay Desktop NAS, Support Capacity 120TB (Diskless), Remote Access, AI Photo Album, Beginner Friendly System, 8GB LPDDR4X RAM, 2.5GbE, 4K HDMI, Network Attached Storage",
+    "price": "$521.99",
+    "link": "https://www.amazon.ca/dp/B0F6CSCSBL"
+  },
+  {
+    "title": "TERRAMASTER F4-212 4 Bay NAS - Quad Core CPU, DDR4 RAM, Network Attached Storage Personal Cloud with Rich Backup Solutions (Diskless)",
+    "price": "$209.99",
+    "link": "https://www.amazon.ca/dp/B0CVGNXS3M"
+  },
+  {
+    "title": "TERRAMASTER F4-212 4 Bay NAS - Quad Core CPU, 2GB DDR4 RAM, Network Attached Storage Personal Cloud with Rich Backup Solutions (Diskless)",
+    "price": "$223.99",
+    "link": "https://www.amazon.ca/dp/B0CSFPDZG8"
+  },
+  {
+    "title": "TERRAMASTER F2-425 2-Bay NAS Storage - Intel x86 Quad-Core CPU, 4GB RAM, 2.5GbE LAN, Network Attached Storage Multimedia Server for Home Users (Diskless)",
+    "price": "$379.99",
+    "link": "https://www.amazon.ca/dp/B0FHVZ53RN"
+  },
+  {
+    "title": "Seagate IronWolf 8TB NAS Internal Hard Drive HDD – 3.5 Inch SATA 6Gb/s 7200 RPM 256MB Cache for RAID Network Attached Storage – Frustration Free Packaging (ST8000VNZ04/N004) (Package May Vary)",
+    "price": "$366.79",
+    "link": "https://www.amazon.ca/dp/B084ZV4DXB"
+  }
+]
